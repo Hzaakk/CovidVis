@@ -1,4 +1,4 @@
-#Visualizing COVID in Saudi Arabia
+# Visualizing COVID in Saudi Arabia
 
 There are many nice-looking visualizations online about the spread of COVID-19 in different countries, yet it's very hard to find any for Saudi Arabia. I decided to make some of my own plots in Python with a focus on Saudi Arabia and how it compares to other countries.
 
